@@ -1,0 +1,52 @@
+@media screen and (max-width:611px) {
+    .banner-section h1{
+        font-size: 115px;
+        
+    }
+    #navbar_wrapper{
+        background: url("../images/mobile-screen-01.jpg") no-repeat center;
+        height: 100vh;
+        background-size: cover;
+        position: relative;
+        /* background-attachment: fixed; */
+    }
+    .banner{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+    .btn-btn{
+        margin: 0%;
+    }
+    .button{
+        /* width: 50px;
+        height: 30px; */
+        border: 1px solid #f73859;
+        padding: 12px 24px;
+        /* margin-top: 20px!important; */
+        /* margin-left: 50px; */
+        color: white;
+        border-radius: 5px;
+    }
+    .about-content{
+        order: 2;
+    }
+    .about-img img{
+        width: 100%;
+        padding: 0%;
+        margin: 0%;
+        order: 1;
+        
+    }
+    .item img{
+        filter: none;
+    }
+}
+
+@media only screen and (min-width: 700px)and (max-device-width: 1201px)  {
+    .hhhhh {
+    font-size: 88px !important;
+    
+    }
+ }

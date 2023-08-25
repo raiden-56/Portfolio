@@ -1,0 +1,49 @@
+
+.skill-section-card{
+  text-align: center;
+  border: #f73859 1px solid;
+  padding: 76px;
+    margin:  30px 33px;
+}
+.skill-section-card:hover{
+  background-color: #f73859;
+  color: white;
+}
+.skill-section-card h2{
+  color: white;
+}
+
+.skill-section-card img{
+  width: 92px;
+  
+}
+
+
+#education_wrapper{
+  padding: 0 30px ;
+  margin-left: 35px;
+  /* margin-top: 20px; */
+}
+.education-icon{
+  font-size: 25px;
+  margin-top: 25px;
+  color: #f73859;
+  /* margin-left: 20px; */
+}
+.title-education{
+  line-height: 3;
+  /* margin-left: 20px; */
+}
+.title-education h2{
+  font-size: 26px;
+  margin-bottom: 10px;
+}
+.title-education h3{
+  font-size: 22px;
+}
+.year{
+  
+  color: #f73859;
+  font-size: 20px;
+  /* margin-top: 28px; */
+}
